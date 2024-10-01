@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/iam_anash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_anash" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_anassh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_anassh" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/mdanassaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mdanassaifi" height="30" width="40" /></a>
+<!-- <a href="www.linkedin.com/in/mdanassaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mdanassaifi" height="30" width="40" /></a> -->
 
 </p>
 
