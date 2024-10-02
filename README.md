@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://mdanassaifi.wordpress.com/](https://mdanassaifi.wordpress.com/)
 
-- 📫 How to reach me **XXXXX**
+- 📫 How to reach me **Use My Social Handle**
 
 - ⚡ Fun fact **Dancing . Acting**
 
