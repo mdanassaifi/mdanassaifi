@@ -10,17 +10,17 @@
 <img  align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="300">
 
 
-- 🔭 I’m currently working on **Front-End Developer**
+- 🔭 I’m currently working on - **Front-End Developer**
 
-- 🌱 I’m currently learning **Android, MERN**
+- 🌱 I’m currently learning  -**Android, MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mdanassaifi](https://github.com/mdanassaifi)
+- 👨‍💻 All of my projects are available at - [https://github.com/mdanassaifi](https://github.com/mdanassaifi)
 
-- 📝 I regularly write articles on [https://mdanassaifi.wordpress.com/](https://mdanassaifi.wordpress.com/)
+- 📝 I regularly write articles on - [https://mdanassaifi.wordpress.com/](https://mdanassaifi.wordpress.com/)
 
-- 📫 How to reach me **Use My Social Handle**
+- 📫 How to reach me  - **Use My Social Handle**
 
-- ⚡ About Me  **I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines**
+- ⚡ About Me   - **I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines**
 
   
 
