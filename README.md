@@ -1,16 +1,9 @@
-
-
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://mdanassaifi.io)
- 
 
 <h1 align="center">Hi 👋, I'm MD ANAS SAIFI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img  align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="300">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdanassaifi&label=Profile%20views&color=0e75b6&style=flat" alt="mdanassaifi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdanassaifi" alt="mdanassaifi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iam_anash" target="blank"><img src="https://img.shields.io/twitter/follow/iam_anash?logo=twitter&style=for-the-badge" alt="iam_anash" /></a> </p>
 
@@ -42,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdanassaifi&show_icons=true&locale=en" alt="mdanassaifi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdanassaifi&" alt="mdanassaifi" /></p>
+
