@@ -10,17 +10,16 @@
 
 <p align="left"> <a href="https://twitter.com/iam_anash" target="blank"><img src="https://img.shields.io/twitter/follow/iam_anash?logo=twitter&style=for-the-badge" alt="iam_anash" /></a> </p>
 
-- 🔭 I’m currently working on *Frontnd*
+- 🔭 I’m currently working on Frontnd
 
-- 🌱 I’m currently learning *Android, MERN*
+- 🌱 I’m currently learning Android, MERN
 
-- 📫 How to reach me *xxxxxxxx*
+- 📫 How to reach me xxxxxxxx
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_anash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_anash" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_anassh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_anassh" height="30" width="40" /></a>
-<!-- <a href="www.linkedin.com/in/mdanassaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mdanassaifi" height="30" width="40" /></a> -->
 
 </p>
 
@@ -29,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdanassaifi&show_icons=true&locale=en&layout=compact" alt="mdanassaifi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Md Anas Saifi 1&show_icons=true&locale=en" alt="mdanassaifi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdanassaifi&show_icons=true&locale=en" alt="mdanassaifi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdanassaifi&" alt="mdanassaifi" /></p>
